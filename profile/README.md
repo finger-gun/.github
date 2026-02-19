@@ -25,20 +25,27 @@ _*Unfortunately private for now, and not released yet. Stay tuned._*
 
 ---
 
-### [Dragonbane Unbound](https://github.com/finger-gun/dragonbane-unbound) — Tabletop chaos, unchained.
+### [Dragonbane Unbound](https://github.com/finger-gun/dragonbane-unbound) — Run Dragonbane at the speed of play.
 
-An experimental playground for Dragonbane-inspired mechanics, tools, or digital companions. Equal parts homage and hacking ground, Dragonbane Unbound explores what happens when classic fantasy systems meet modern tooling and unapologetic tinkering.
+Dragonbane Unbound is an open-source, **local-first platform** for running Dragonbane seamlessly at the table. It includes a modular rules engine, character builder, encounter runner, and community content system — all designed to reduce friction and keep the focus on play.
 
----
-
-### [Linopress](https://github.com/finger-gun/linopress) — Publish first. Refactor later.
-
-Linopress is a lightweight publishing experiment focused on frictionless writing and fast iteration. Minimal structure, maximal momentum—because sometimes the best CMS is just enough CMS.
+Fully MIT-licensed, self-hostable, and extensible. Built for players, GMs, and publishers alike.
 
 ---
 
-### [Homunculus](https://github.com/finger-gun/homunculus)* — Small creature. Big intentions.
+### [Linopress](https://github.com/finger-gun/linopress) — Prompt → build → verify → ship.
 
-Homunculus is a private experiment in building compact, opinionated systems that punch above their weight. Part automation gremlin, part idea incubator. Details are scarce. That’s intentional.
+Linopress is an **agentic WordPress site creator**. Give it a prompt and it provisions an isolated WordPress sandbox, generates themes, pages, and plugins using deterministic tools and skills, validates the result with an agent-driven browser, self-heals on failure, and produces a portable deploy bundle.
+
+From idea to verified site — automated, reproducible, and ready to ship.
+
+---
+
+### [Homunculus](https://github.com/finger-gun/homunculus)* — The invisible HUD for tabletop RPGs.
+
+Homunculus is an **Invisible HUD** for TTRPGs designed to destroy the screen barrier. It’s a zero-click augmentation tool that listens to your session and provides instant rule lookups and campaign context drawn from your own notes.
+
+Not an AI GM or DM — but a dedicated librarian and chronicler.  
+Homunculus keeps the rules and history at your fingertips so you can keep your eyes on the players, not the screen.
 
 _*Currently private._*
