@@ -34,7 +34,7 @@ ProjectSpecs is a lightweight, AI-native spec layer for teams drowning in scatte
 
 Dragonbane Unbound is an open-source, **local-first platform** for running Dragonbane seamlessly at the table. It includes a modular rules engine, character builder, encounter runner, and community content system — all designed to reduce friction and keep the focus on play.
 
-Fully MIT-licensed, self-hostable, and extensible. Built for players, GMs, and publishers alike.
+Fully Apache 2.0-licensed, self-hostable, and extensible. Built for players, GMs, and publishers alike.
 
 ---
 
