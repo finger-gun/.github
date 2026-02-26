@@ -25,7 +25,7 @@ _*Unfortunately private for now, and not released yet. Stay tuned._*
 
 ---
 
-### ProjectSpecs (https://github.com/finger-gun/projectspec) — Specs that stay synced with reality.
+### [ProjectSpecs](https://github.com/finger-gun/projectspec) — Specs that stay synced with reality.
 ProjectSpecs is a lightweight, AI-native spec layer for teams drowning in scattered requirements. It turns enterprise artifacts into structured, traceable project specs that stay human-readable, tool-friendly, and actually useful. Local-first, versioned, and built to make you more AI-enabled without copy/paste chaos.
 
 ---
