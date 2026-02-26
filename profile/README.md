@@ -25,6 +25,11 @@ _*Unfortunately private for now, and not released yet. Stay tuned._*
 
 ---
 
+### ProjectSpecs (https://github.com/finger-gun/projectspec) — Specs that stay synced with reality.
+ProjectSpecs is a lightweight, AI-native spec layer for teams drowning in scattered requirements. It turns enterprise artifacts into structured, traceable project specs that stay human-readable, tool-friendly, and actually useful. Local-first, versioned, and built to make you more AI-enabled without copy/paste chaos.
+
+---
+
 ### [Dragonbane Unbound](https://github.com/finger-gun/dragonbane-unbound) — Run Dragonbane at the speed of play.
 
 Dragonbane Unbound is an open-source, **local-first platform** for running Dragonbane seamlessly at the table. It includes a modular rules engine, character builder, encounter runner, and community content system — all designed to reduce friction and keep the focus on play.
