@@ -1,11 +1,21 @@
-# 🔫 Finger Gun
+<div align="center">
+  <img src="https://github.com/finger-gun/.github/blob/main/finger-gun-logo.png" width=350 />
+  
+# Finger Gun
 
+<h4>
+  
 *A studio for side quests, half-baked genius, and dangerously playful ideas.*
+
 
 We specialize in things no one asked for but might love anyway.  
 From AI photo hunts to mood-based UI glitches, we build weirdly useful stuff at the intersection of creativity, code, and questionable decision-making.
 
 Fueled by **vibe coding**, last-minute refactors, and the occasional “why is this working?”, we ship first and understand later. Mostly.
+
+</h4>
+
+</div>
 
 ---
 
