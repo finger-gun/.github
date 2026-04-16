@@ -27,7 +27,7 @@ Sisu is a lightweight TypeScript framework for turning intent into action. Inspi
 
 ---
 
-### [DungeonPlanner](https://github.com/Finger-Gun/DungeonPlanner) — Your game, now in 3D!
+### [DungeonPlanner](https://github.com/Finger-Gun/DungeonPlanner) — Made for TTRPG players who want their dungeon to look as good as it plays.
 
 A 3D dungeon editor for tabletop RPG players — paint rooms, place props, and share your layout with your party.
 
