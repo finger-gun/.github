@@ -27,6 +27,12 @@ Sisu is a lightweight TypeScript framework for turning intent into action. Inspi
 
 ---
 
+### [DungeonPlanner](https://github.com/Finger-Gun/DungeonPlanner) — Your game, now in 3D!
+
+A 3D dungeon editor for tabletop RPG players — paint rooms, place props, and share your layout with your party.
+
+---
+
 ### [Reframe](https://github.com/Finger-Gun/Reframe)* — Your city just became a photo quest.
 
 Reframe is a photo discovery game that turns your city into a playground of visual challenges. Players receive image-based quests to find and re-capture real-world scenes. With AI-powered visual similarity, Reframe rewards accurate framing and composition.
