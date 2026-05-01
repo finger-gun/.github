@@ -27,6 +27,12 @@ Sisu is a lightweight TypeScript framework for turning intent into action. Inspi
 
 ---
 
+### [OpenMux](https://github.com/Finger-Gun/omux) — A fast, flexible, and hackable workspace for developers.
+
+OpenMUX exists for developers who want native terminal workflows without giving up inspectability, scriptability, or control. It takes the opposite bet from bloated, vendor-shaped terminals: keep the core small, keep the seams visible, and let hooks, events, and commands do the heavy lifting.
+
+---
+
 ### [DungeonPlanner](https://github.com/Finger-Gun/DungeonPlanner) — Made for TTRPG players who want their dungeon to look as good as it plays.
 
 A 3D dungeon editor for tabletop RPG players — paint rooms, place props, and share your layout with your party.
